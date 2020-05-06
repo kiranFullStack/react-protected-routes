@@ -1,3 +1,1 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-It is a example of how to protect routes with react router 4.
+This project demonstrates how to have protected and public routes in Reacty using React Router and Redux
